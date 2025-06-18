@@ -46,7 +46,7 @@
 `robot_control_set.py`包括预编程的动作库，`camera_calibration.py`是得到相机参数的程序，校准结果 
 放在`calibration_results`中。
 
-蓝牙代码在`drive_firmware/OpenCatEsp32/src/bleClient.h`和`bleUart.h`中，
+蓝牙代码在`drive_firmware/src/bleClient.h`和`bleUart.h`中，
 基础的步态驱动在`InstinctBittleESP.h`中。请确保`OpenCat.h`中的`PWM_pin[PWM_NUM]`数组定义是：
 
    ```bash
