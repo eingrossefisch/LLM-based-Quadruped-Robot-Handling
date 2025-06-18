@@ -4,6 +4,7 @@
 *.DS_Store
 Thumbs.db
 
+.idea
 __pycache__/
 *.py[cod]
 *.pyo
