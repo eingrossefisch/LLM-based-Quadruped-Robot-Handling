@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e836868e-b781-4968-aa24-22959623fa30" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/ModuleTests/testBuzzer/testBuzzer.ino" beforeDir="false" afterPath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/ModuleTests/testBuzzer/testBuzzer.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/OpenCatEsp32.ino" beforeDir="false" afterPath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/OpenCatEsp32.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/src/OpenCat.h" beforeDir="false" afterPath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/src/OpenCat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/src/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/drive_firmware/OpenCatEsp32/src/camera.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/drive_firmware/OpenCatEsp32" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tzCfOZTaak4wPiadDL1aZAV0Gi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.LLM.executor": "Run",
+    "Python.STT.executor": "Run",
+    "Python.action_test.executor": "Run",
+    "Python.camera_calibration.executor": "Run",
+    "Python.camera_read.executor": "Run",
+    "Python.camera_test.executor": "Run",
+    "Python.chat_test.executor": "Run",
+    "Python.color_detection.executor": "Run",
+    "Python.color_detection_control.executor": "Run",
+    "Python.color_pointing.executor": "Run",
+    "Python.grab_release_test.executor": "Run",
+    "Python.grab_test.executor": "Run",
+    "Python.interrupt_test.executor": "Run",
+    "Python.point_approach.executor": "Run",
+    "Python.port_scanner.executor": "Run",
+    "Python.putdown_test.executor": "Run",
+    "Python.release_test.executor": "Run",
+    "Python.robot_control_set.executor": "Run",
+    "Python.robot_serial_test.executor": "Run",
+    "Python.stt_llm_analysis.executor": "Run",
+    "Python.take_put_test.executor": "Run",
+    "Python.takeup_test.executor": "Run",
+    "Python.video_capture_urllib.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/Desktop/Fig.png",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\LLM-Robotic\test" />
+      <recent name="E:\Projects\LLM-Robotic\src" />
+      <recent name="E:\Projects\LLM-Robotic\calibration_image" />
+      <recent name="E:\Projects\LLM-Robotic\src\calibration_images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e836868e-b781-4968-aa24-22959623fa30" name="更改" comment="" />
+      <created>1741345619907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741345619907</updated>
+    </task>
+    <servers />
+  </component>
+</project>

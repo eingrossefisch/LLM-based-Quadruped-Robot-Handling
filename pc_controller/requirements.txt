@@ -1,0 +1,7 @@
+numpy==2.3.0
+opencv_python==4.11.0.86
+pyserial==3.5
+python-dotenv==1.1.0
+Requests==2.32.4
+sounddevice==0.5.1
+websocket_client==1.8.0

@@ -1,0 +1,13 @@
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+!.env.example
+
